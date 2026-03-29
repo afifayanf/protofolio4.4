@@ -1,11 +1,3 @@
 
-  # AfifAyan
+  # made by AfifAyan
 
-  This is a code bundle for AfifAyan. The original project is available at https://www.figma.com/design/Zh4usZekNEkHeJ1IWapitn/AfifAyan.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
